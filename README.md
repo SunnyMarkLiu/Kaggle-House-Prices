@@ -3,7 +3,7 @@
 <img src="https://kaggle2.blob.core.windows.net/competitions/kaggle/5407/media/housesbanner.png" width=100% height=80%/>
 </center>
 
-Kaggle Competition: [House Prices, Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). Public Leaderboard Score 0.12191.
+Kaggle Competition: [House Prices, Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). Public Leaderboard Score 0.12076.
 
 ## Content
 - Data cleaning and filling up missing values
